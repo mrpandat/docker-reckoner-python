@@ -4,8 +4,4 @@ I could not found any dockerfile with reckoner/helm/kubectl, so here we are :)
 
 ## Test it
 
-```docker run mrpandat/reckoner-helm-kubectl reckoner version```
-
-## Dockerhub
-
-https://hub.docker.com/r/mrpandat/reckoner-helm-kubectl
+```docker run ghcr.io/mrpandat/reckoner-helm-kubectl:main reckoner version```
